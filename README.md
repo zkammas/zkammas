@@ -40,10 +40,13 @@ I am a **Computer Science student** passionate about technology and programming.
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-# :bar_chart: Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkammas&layout=compact&theme=blue-green&hide=css,html,php) &nbsp; &nbsp;
+## :bar_chart: Statistics
+<p align="center">
+ <!-- Most Used Languages Section --> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkammas&layout=compact&theme=blue-green&hide=css,html,php" alt="Top Languages" />
+</p>
 
-<!--
+<!--  Github Stats section
 ![Github_Stats](https://github-readme-stats.vercel.app/api?username=zkammas&show_icons=true&layout=compact&theme=blue-green&hide=css,html,php) &nbsp; &nbsp;
 -->
 
